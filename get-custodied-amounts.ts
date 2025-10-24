@@ -13,51 +13,62 @@ import { readContract } from 'wagmi/actions'
 import { wagmiConfig } from './wagmi'
 import { formatUnits } from 'viem'
 
-const AllTickerHashes = Assets.map((a) => a.tickerHash)
 const AllDomains = Chains.map((n) => n.chain_id)
+
+const AllowedAssets = ["WETH", "USDC", "USDT", "WBTC", "cbBTC", "USDC.E", "EURC"]
+
+// Filter ticker hashes to only include assets where symbol exists in AllowedAssets
+const FilteredAssets = Assets.filter(({ tickerHash }) => {
+  const asset = findAsset({ tickerHash })
+  return asset && AllowedAssets.includes(asset.symbol)
+})
 
 async function execute() {
   const allResults: Array<{
     symbol: string | undefined
     tickerHash: string
-    totalFillAmountNeed: string
-    roundedResults: Array<{
+    results: Array<{
       amountCustodied: string
       chainId: string
       chainName: string
     }>
   }> = []
 
-  for (const tickerHash of AllTickerHashes) {
-    const results = await getCustodiedAmountQuery(tickerHash, AllDomains)
+  // Use Promise.all with .map for parallel execution
+  const results = await Promise.all(
+    FilteredAssets.map(async ({ tickerHash }) => {
+      const queryResults = await getCustodiedAmountQuery(tickerHash, AllDomains)
 
-    let totalFillAmountNeed = 0n
+      const domains: Array<{
+        amountCustodied: string
+        chainId: string
+        chainName: string
+      }> = []
 
-    const domains: Array<{
-      amountCustodied: string
-      chainId: string
-      chainName: string
-    }> = []
+      for (const [domain, amount] of Object.entries(queryResults)) {
+        if (!amount) continue
 
-    for (const [domain, amount] of Object.entries(results)) {
-      if (!amount) continue
-  
         domains.push({
           chainId: domain,
           chainName: findChain({ chainId: Number(domain) })?.name || '',
           amountCustodied: amount,
         })
-    }
+      }
 
-    if(Object.keys(domains).length){
-      allResults.push({
-        symbol: findAsset({ tickerHash })?.symbol,
-        tickerHash,
-        totalFillAmountNeed: formatUnits(totalFillAmountNeed, 18),
-        roundedResults: domains
-      })
-    }
-  }
+      if (Object.keys(domains).length) {
+        return {
+          symbol: findAsset({ tickerHash })?.symbol,
+          tickerHash,
+          results: domains
+        }
+      }
+
+      return null
+    })
+  )
+
+  // Filter out null results
+  allResults.push(...results.filter((result): result is NonNullable<typeof result> => result !== null))
 
   // Write all results to a file
   const outputData = {
@@ -68,7 +79,7 @@ async function execute() {
 
   const outputPath = path.join(process.cwd(), 'custodied-amounts.json')
   fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2))
-  
+
   console.log(`Results written to: ${outputPath}`)
   console.log(`Total assets processed: ${allResults.length}`)
 }
