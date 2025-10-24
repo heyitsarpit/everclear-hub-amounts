@@ -1,0 +1,22 @@
+{
+  "name": "hub-custodied-amounts",
+  "version": "1.0.0",
+  "description": "Hub Custodied Amounts for Everclear",
+  "type": "module",
+  "scripts": {
+    "start": "tsx round.ts",
+    "dev": "tsx round.ts"
+  },
+  "dependencies": {
+    "bs58": "^5.0.0",
+    "dotenv": "^17.2.3",
+    "tronweb": "^6.0.4",
+    "tsx": "^4.20.6",
+    "viem": "^2.38.4",
+    "wagmi": "^2.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.23",
+    "typescript": "^5.9.3"
+  }
+}
