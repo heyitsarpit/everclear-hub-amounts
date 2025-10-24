@@ -91,13 +91,6 @@
         "chain_id": 534352,
         "network": "evm",
         "isNative": true
-      },
-      {
-        "contract_address": "11111111111111111111111111111111",
-        "decimals": 8,
-        "chain_id": 1399811149,
-        "network": "svm",
-        "isNative": true
       }
     ]
   },
@@ -295,7 +288,7 @@
     "tickerHash": "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa",
     "id": "usdc",
     "name": "USD Coin",
-    "image": "/logos/assets/usdc.png",
+    "image": "/logos/assets/usdc.svg",
     "coingecko_id": "usd-coin",
     "contracts": [
       {
@@ -383,7 +376,7 @@
         "network": "evm"
       },
       {
-        "contract_address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+        "contract_address": "0x2D270e6886d130D724215A266106e6832161EAEd",
         "decimals": 6,
         "chain_id": 57073,
         "network": "evm"
@@ -636,18 +629,23 @@
     ]
   },
   {
-    "symbol": "pufETH",
-    "tickerHash": "0xf034809ab83bb8890c327d058e8faeff54064520fe2741467c5ed2b4843da30e",
-    "wrappedToken": "xPufETH",
-    "id": "pufeth",
-    "name": "Puffer ETH",
-    "image": "/logos/assets/pufeth.png",
-    "coingecko_id": "pufeth",
+    "symbol": "EURC",
+    "tickerHash": "0x147758d3dafb1e8675e1a8ecff01cc8a943115b0fec1f4a13cfd4b303e47244a",
+    "id": "eurc",
+    "name": "Europa Coin",
+    "image": "/logos/assets/eurc.svg",
+    "coingecko_id": "euro-coin",
     "contracts": [
       {
-        "contract_address": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
-        "decimals": 18,
+        "contract_address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+        "decimals": 6,
         "chain_id": 1,
+        "network": "evm"
+      },
+      {
+        "contract_address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+        "decimals": 6,
+        "chain_id": 8453,
         "network": "evm"
       }
     ]
@@ -801,6 +799,23 @@
         "chain_id": 57073,
         "network": "evm",
         "isNative": true
+      }
+    ]
+  },
+  {
+    "symbol": "USDC.E",
+    "tickerHash": "0x9f1d38fb405b6e8972e7ff24c06db26cfa8e052645dfc18534f9c7dd046adb2c",
+    "deprecated": true,
+    "id": "usdc.e",
+    "name": "USD Coin",
+    "image": "/logos/assets/usdc.svg",
+    "coingecko_id": "usd-coin",
+    "contracts": [
+      {
+        "contract_address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+        "decimals": 6,
+        "chain_id": 57073,
+        "network": "evm"
       }
     ]
   },

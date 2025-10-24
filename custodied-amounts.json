@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T11:12:08.972Z",
+  "timestamp": "2025-10-24T15:20:54.098Z",
   "totalAssets": 19,
   "results": [
     {
@@ -137,12 +137,12 @@
         {
           "chainId": "1",
           "chainName": "Ethereum",
-          "amountCustodied": "481446090000000000"
+          "amountCustodied": "4235751570000000000"
         },
         {
           "chainId": "10",
           "chainName": "Optimism",
-          "amountCustodied": "16852081000000000"
+          "amountCustodied": "16833284921000000000"
         },
         {
           "chainId": "56",
@@ -157,7 +157,7 @@
         {
           "chainId": "130",
           "chainName": "Unichain",
-          "amountCustodied": "0"
+          "amountCustodied": "19874668180000000000"
         },
         {
           "chainId": "137",
@@ -167,7 +167,7 @@
         {
           "chainId": "146",
           "chainName": "Sonic",
-          "amountCustodied": "161427200000000000"
+          "amountCustodied": "32918930000000000"
         },
         {
           "chainId": "324",
@@ -202,7 +202,7 @@
         {
           "chainId": "42161",
           "chainName": "Arbitrum",
-          "amountCustodied": "4206587380000000000"
+          "amountCustodied": "11084009690000000000"
         },
         {
           "chainId": "43114",
@@ -217,12 +217,12 @@
         {
           "chainId": "57073",
           "chainName": "Ink",
-          "amountCustodied": "6000000000"
+          "amountCustodied": "145360366000000000"
         },
         {
           "chainId": "59144",
           "chainName": "Linea",
-          "amountCustodied": "58659524200000000"
+          "amountCustodied": "39568835854200000000"
         },
         {
           "chainId": "80094",
@@ -396,12 +396,12 @@
         {
           "chainId": "10",
           "chainName": "Optimism",
-          "amountCustodied": "9684007095916000000"
+          "amountCustodied": "95916000000"
         },
         {
           "chainId": "56",
           "chainName": "BNB Chain",
-          "amountCustodied": "6963740005472657000000"
+          "amountCustodied": "14109735882472657000000"
         },
         {
           "chainId": "100",
@@ -416,7 +416,7 @@
         {
           "chainId": "137",
           "chainName": "Polygon",
-          "amountCustodied": "102747490971153000000"
+          "amountCustodied": "136060081971153000000"
         },
         {
           "chainId": "146",
@@ -426,7 +426,7 @@
         {
           "chainId": "324",
           "chainName": "zkSync Era",
-          "amountCustodied": "3517725257000000"
+          "amountCustodied": "13001681845725257000000"
         },
         {
           "chainId": "2020",
@@ -441,7 +441,7 @@
         {
           "chainId": "8453",
           "chainName": "Base",
-          "amountCustodied": "20605155523653691000000"
+          "amountCustodied": "653691000000"
         },
         {
           "chainId": "33139",
@@ -466,7 +466,7 @@
         {
           "chainId": "48900",
           "chainName": "Zircuit",
-          "amountCustodied": "414285392659196000000"
+          "amountCustodied": "393532000659196000000"
         },
         {
           "chainId": "57073",
