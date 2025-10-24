@@ -1,0 +1,2419 @@
+{
+  "timestamp": "2025-10-24T11:12:08.972Z",
+  "totalAssets": 19,
+  "results": [
+    {
+      "symbol": "ETH",
+      "tickerHash": "0xaaaebeba3810b1e6b70781f14b2d72c1cb89c0b2b320c43bb67ff79f562f5ff4",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "WETH",
+      "tickerHash": "0x0f8a193ff464434486c0daf7db2a895884365d2bc84ba47a68fcf89c1b14b5b8",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "481446090000000000"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "16852081000000000"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "700000000"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "2100000000"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "161427200000000000"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "2300000000"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "1900000000"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "9937676807"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "4206587380000000000"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "6000000000"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "58659524200000000"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "7300000000"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "1979597000000000"
+        }
+      ]
+    },
+    {
+      "symbol": "CLEAR",
+      "tickerHash": "0x06ac253a00ee13562eecafc06057c6db73566a05bdce988194aad3616e28e87c",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "USDC",
+      "tickerHash": "0xd6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "1941093000000"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "9684007095916000000"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "6963740005472657000000"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "1449948754114621000000"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "102747490971153000000"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "651188000000"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "3517725257000000"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "67571144935170000000"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "20605155523653691000000"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "790302668726"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "965484000000"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "452600000000"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "414285392659196000000"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "154048000000"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "219071000000"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "412350000000"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "496693000000"
+        }
+      ]
+    },
+    {
+      "symbol": "USDT",
+      "tickerHash": "0x8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "191693000000"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "145944000000"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "11993181715035964000000"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "145944000000"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "565107000000"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "780584512696000000"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "10895041153000000000000"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "479277000000"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "999999621795"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "321307000000"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "766249000000"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "687425000000"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "180995000000"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "15589000000"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "404201000000"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "5000000000000000000"
+        }
+      ]
+    },
+    {
+      "symbol": "xPufETH",
+      "tickerHash": "0x7ca978c7f993c411238b0887969711b470a3133448ab70e4f18aa4d63dcb7907",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "100"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "cbBTC",
+      "tickerHash": "0xab7216efe876c5163ebb1d05a1a6b63e00fb73d1d68ddf079460c106356fd162",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "WBTC",
+      "tickerHash": "0x98da2c5e4c6b1db946694570273b859a6e4083ccc8faa155edfc4c54eb3cfd73",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "pufETH",
+      "tickerHash": "0xf034809ab83bb8890c327d058e8faeff54064520fe2741467c5ed2b4843da30e",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "BNB",
+      "tickerHash": "0x3ed03c38e59dc60c7b69c2a4bf68f9214acd953252b5a90e8f5f59583e9bc3ae",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "POL",
+      "tickerHash": "0x5611acaae5e6f2d151766dae4f93d18a904ae6f9265184ffea692c2e6e52b7fe",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "SONIC",
+      "tickerHash": "0x517930d5cb7cf533eaeb6f47318cd4a252a29b00a0ffcc50df5f0fefc0a342f2",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "RON",
+      "tickerHash": "0x2dd272ddce846149d92496b4c3e677504aec8d5e6aab5908b25c9fe0a797e25f",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "MNT",
+      "tickerHash": "0xcd021b8e001a22311e1ccbd0526db1cac113eab46048373ce0baf2c8da1f63fe",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "APE",
+      "tickerHash": "0x26bca2ecad19e981c90a8c6efd8ee9856bbc5a2042259e6ee31e310fdc08d970",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "APE-ETH",
+      "tickerHash": "0x3f015e6458886a456e1137ee9b9d69c67b3168ef84640aa5bdd95a964e7b84b7",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAX",
+      "tickerHash": "0x49f18ed70c3220abb735efdc7fce309e384d008d4bc14c846dcce9e31050e29b",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "INK",
+      "tickerHash": "0x8e45e515a42c1a00b1df0dae2ba2aa6b6ce7e33ba3a197173c5d7f6970c2531c",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    },
+    {
+      "symbol": "BERA",
+      "tickerHash": "0x0d708a0a062f23db49bbf1d3467f3dd0f744c02724e060d3952139a0649eb83c",
+      "totalFillAmountNeed": "0",
+      "roundedResults": [
+        {
+          "chainId": "1",
+          "chainName": "Ethereum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "10",
+          "chainName": "Optimism",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "56",
+          "chainName": "BNB Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "100",
+          "chainName": "Gnosis",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "130",
+          "chainName": "Unichain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "137",
+          "chainName": "Polygon",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "146",
+          "chainName": "Sonic",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "324",
+          "chainName": "zkSync Era",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "2020",
+          "chainName": "Ronin",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "5000",
+          "chainName": "Mantle",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "8453",
+          "chainName": "Base",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "33139",
+          "chainName": "Ape Chain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "34443",
+          "chainName": "Mode",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "42161",
+          "chainName": "Arbitrum",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "43114",
+          "chainName": "Avalanche",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "48900",
+          "chainName": "Zircuit",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "57073",
+          "chainName": "Ink",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "59144",
+          "chainName": "Linea",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "80094",
+          "chainName": "Berachain",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "81457",
+          "chainName": "Blast",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "167000",
+          "chainName": "Taiko",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "534352",
+          "chainName": "Scroll",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "728126428",
+          "chainName": "Tron",
+          "amountCustodied": "0"
+        },
+        {
+          "chainId": "1399811149",
+          "chainName": "Solana",
+          "amountCustodied": "0"
+        }
+      ]
+    }
+  ]
+}

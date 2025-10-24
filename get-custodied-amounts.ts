@@ -1,4 +1,6 @@
 import 'dotenv/config'
+import * as fs from 'fs'
+import * as path from 'path'
 
 import { Assets, findAsset } from './Assets'
 import { Chains, findChain } from './Chains'
@@ -15,6 +17,17 @@ const AllTickerHashes = Assets.map((a) => a.tickerHash)
 const AllDomains = Chains.map((n) => n.chain_id)
 
 async function execute() {
+  const allResults: Array<{
+    symbol: string | undefined
+    tickerHash: string
+    totalFillAmountNeed: string
+    roundedResults: Array<{
+      amountCustodied: string
+      chainId: string
+      chainName: string
+    }>
+  }> = []
+
   for (const tickerHash of AllTickerHashes) {
     const results = await getCustodiedAmountQuery(tickerHash, AllDomains)
 
@@ -37,7 +50,7 @@ async function execute() {
     }
 
     if(Object.keys(domains).length){
-      console.log({
+      allResults.push({
         symbol: findAsset({ tickerHash })?.symbol,
         tickerHash,
         totalFillAmountNeed: formatUnits(totalFillAmountNeed, 18),
@@ -45,6 +58,19 @@ async function execute() {
       })
     }
   }
+
+  // Write all results to a file
+  const outputData = {
+    timestamp: new Date().toISOString(),
+    totalAssets: allResults.length,
+    results: allResults
+  }
+
+  const outputPath = path.join(process.cwd(), 'custodied-amounts.json')
+  fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2))
+  
+  console.log(`Results written to: ${outputPath}`)
+  console.log(`Total assets processed: ${allResults.length}`)
 }
 
 execute()

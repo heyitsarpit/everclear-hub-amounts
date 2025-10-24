@@ -4,8 +4,7 @@
   "description": "Hub Custodied Amounts for Everclear",
   "type": "module",
   "scripts": {
-    "start": "tsx round.ts",
-    "dev": "tsx round.ts"
+    "start": "tsx get-custodied-amounts.ts"
   },
   "dependencies": {
     "bs58": "^5.0.0",
